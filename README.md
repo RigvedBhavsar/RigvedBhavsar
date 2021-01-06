@@ -1,4 +1,4 @@
-### Hi there 👋, I.m Rigved Bhavsar
+### Hi there 👋, I'm Rigved Bhavsar
 A Creative UI/UX Designer & Full Stack Developer.
 
 
