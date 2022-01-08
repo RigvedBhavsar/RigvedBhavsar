@@ -5,8 +5,8 @@ A Creative UI/UX Designer & Full Stack Developer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Pursuing My Masters Degree in Computer Application.
-- 💬 Ask me about : **C/C++, JAVA, (MEAN / MERN) Stack**
+- 🔭 Masters in Computer Applications.
+- 💬 Ask me about : **C/C++, JAVA, (MEAN / MERN) Stack, .NET Framework**
 - 📫 How to reach me: rigvedbhavsar@gmail.com
 - ⚡ Visit : [rigvedbhavsar.me](https://rigvedbhavsar.me/)
 <div align="center">
